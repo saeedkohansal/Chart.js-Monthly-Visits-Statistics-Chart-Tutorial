@@ -11,68 +11,16 @@ Learn to build a Monthly Visits Statistics Chart from scratch with Chart.js, the
 
 <hr>
 
-# 🔴 Chart.js Examples Live Demo
-🔗 ***[https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/)*** - *9 Types of Charts*
+# 🔴 Chart Live Demo
+🔗 ***[https://saeedkohansal.github.io/Chart.js-Monthly-Visits-Statistics-Chart-Tutorial/source-code/](https://saeedkohansal.github.io/Chart.js-Monthly-Visits-Statistics-Chart-Tutorial/source-code/)*** - *Monthly Visits Statistics Chart*
 
 <hr>
 
-# 📚 Table of Contents
+<div align="center"><h1>📸 Chart Demos 👇</h1></div>
 
-📊 **[Bar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/bar-chart.html)** - *[Source Code](source-code/charts/bar-chart.html)*
+## 📊 Monthly Visits Statistics Chart
 
-📊 **[Multiple Datasets Bar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/bar-chart-multiple-datasets.html)** - *[Source Code](source-code/charts/bar-chart-multiple-datasets.html)*
-
-📊 **[Horizontal Bar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/bar-chart-horizontal.html)** - *[Source Code](source-code/charts/bar-chart-horizontal.html)*
-
-📈 **[Line Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/line-chart.html)** - *[Source Code](source-code/charts/line-chart.html)*
-
-📉 **[Multi Axis Line Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/line-chart-multi-axis.html)** - *[Source Code](source-code/charts/line-chart-multi-axis.html)*
-
-🍩 **[Doughnut and Pie Charts](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/doughnut-and-pie-charts.html)** - *[Source Code](source-code/charts/doughnut-and-pie-charts.html)*
-
-🔶 **[Radar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/radar-chart.html)** - *[Source Code](source-code/charts/radar-chart.html)*
-
-⭕ **[Scatter Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/scatter-chart.html)** - *[Source Code](source-code/charts/scatter-chart.html)*
-
-<hr>
-
-<div align="center"><h1>📸 Charts Demos 👇</h1></div>
-
-## 📊 Bar Chart
-
-![Bar Chart](images/chart.js-examples/bar-chart.png "Bar Chart - Example")
-
-## 📊 Multiple Datasets Bar Chart
-
-![Multiple Datasets Bar Chart](images/chart.js-examples/bar-chart-multiple-datasets.png "Multiple Datasets Bar Chart - Example")
-
-## 📊 Horizontal Bar Chart
-
-![Horizontal Bar Chart](images/chart.js-examples/bar-chart-horizontal.png "Horizontal Bar Chart - Example")
-
-## 📈 Line Chart
-
-![Line Chart](images/chart.js-examples/line-chart.png "Line Chart - Example")
-
-## 📉 Multi Axis Line Chart
-
-![Bar Chart](images/chart.js-examples/line-chart-multi-axis.png "Multi Axis Line Chart - Example")
-
-## 🍩 Doughnut Chart
-
-![Doughnut Chart](images/chart.js-examples/doughnut-chart.png "Doughnut Chart - Example")
-
-## 🍩 Pie Chart
-
-![Pie Chart](images/chart.js-examples/pie-chart.png "Pie Chart - Example")
-
-## 🔶 Radar Chart
-
-![Radar Chart](images/chart.js-examples/radar-chart.png "Radar Chart - Example")
-
-## ⭕ Scatter Chart
-
-![Scatter Chart](images/chart.js-examples/scatter-chart.png "Scatter Chart - Example")
+![Bar Chart](images/chart-demo.png "Chart Demo")
 
 <hr>
 
