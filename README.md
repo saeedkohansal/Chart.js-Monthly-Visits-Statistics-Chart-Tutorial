@@ -16,7 +16,7 @@ Learn to build a Monthly Visits Statistics Chart from scratch with Chart.js, the
 
 <hr>
 
-<div align="center"><h1>📈 Monthly Visits Statistics Chart 📉</h1></div>
+<div align="center"><h1>📈 Chart Demo 📉</h1></div>
 
 ![Chart Demo](images/chart-demo.png "Chart Demo")
 
