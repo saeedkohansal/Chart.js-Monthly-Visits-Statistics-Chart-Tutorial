@@ -1,0 +1,26 @@
+body {
+    font-family: "Roboto Condensed";
+    background-color: #1e2240;
+}
+
+h1 {
+    color: #af0;
+    text-align: center;
+    background-color: #00000055;
+    padding: 12px 24px;
+    width: fit-content;
+    margin: -10px auto 20px;
+    border: 1px solid #ffffff44;
+    border-radius: 12px;
+}
+
+hr {
+    border: solid 2px #939fff33;
+}
+
+.chart-container {
+    position: relative;
+    height: 60vh;
+    width: 60vw;
+    margin: 40px auto 100px;
+}
