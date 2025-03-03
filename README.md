@@ -7,7 +7,7 @@ _Chart.js Tutorial: Design a Monthly Visits Stats Chart from Scratch!_
 Learn to build a Monthly Visits Statistics Chart from scratch with Chart.js, the go-to JavaScript library for stunning, interactive charts! Perfect for tracking website traffic in your admin panel, this tutorial shows you how to create a customizable chart displaying monthly or weekly visits. Optimized for dark mode and starting with random data, you’ll also discover how to connect it to real data via a JSON API. Master data visualization and level up your web dev skills—watch now!
 
 # 🎥 Tutorial Video
-🔗 ***[https://youtu.be/AuJW8s172bA](https://youtu.be/AuJW8s172bA)*** - *Chart.js Tutorial: Design a Monthly Visits Stats Chart from Scratch!*
+🔗 ***[https://youtu.be/AuJW8s172bA](https://youtu.be/AuJW8s172bA)*** - *Dynamic Data Generating*
 
 <hr>
 
@@ -16,11 +16,9 @@ Learn to build a Monthly Visits Statistics Chart from scratch with Chart.js, the
 
 <hr>
 
-<div align="center"><h1>📸 Chart Demos 👇</h1></div>
+<div align="center"><h1>📈 Monthly Visits Statistics Chart 📉</h1></div>
 
-## 📊 Monthly Visits Statistics Chart
-
-![Bar Chart](images/chart-demo.png "Chart Demo")
+![Chart Demo](images/chart-demo.png "Chart Demo")
 
 <hr>
 
